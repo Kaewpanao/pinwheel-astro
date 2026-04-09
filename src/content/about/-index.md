@@ -42,7 +42,7 @@ gallery:
 
 ## our works
 features:
-  title:หลักการทำงานหกประการ<br />ที่ขับเคลื่อนทุกสิ่ง
+  title: หลักการทำงานหกประการ<br />ที่ขับเคลื่อนทุกสิ่ง
   button:
     label: ดาวน์โหลดธีม
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
