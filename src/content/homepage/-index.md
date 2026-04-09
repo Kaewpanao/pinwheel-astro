@@ -1,131 +1,131 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "ขยายกสเกลการออกแบบและพัฒนาด้วย Avocode Enterprise"
+  content: "ชุดผลิตภัณฑ์ที่ผสานรวมครบถ้วนสำหรับการตรวจสอบสิทธิ์และอนุญาต แพลตฟอร์มของ Stytch ช่วยลดปัญหาที่น่าปวดหัวให้คุณได้"
   image: /images/banner-img.png
   button:
     enable: true
-    label: Download The Theme
+    label: ดาวน์โหลดธีม
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "จุดเด่นของโซลูชันของเรา"
+  description: เรามุ่งมั่นที่จะส่งมอบสิ่งที่ดีที่สุดให้กับลูกค้า ด้วยโซลูชันที่ครบถ้วนและทันสมัยเพื่อตอบโจทกทุกความต้องการของคุณ
   feature_list:
     - icon: "FiMap" #icon package react-icons
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: คำบรรยายสด
+      content: เรามีระบบคำบรรยายสดที่แม่นยำและรวดเร็ว ช่วยให้คุณเข้าใจเนื้อหาได้ทันที
     - icon: "FiLock" #icon package react-icons
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: การตอบกลับอัจฉริยะ
+      content: ระบบตอบกลับอัจฉริยะที่ช่วยประหยัดเวลาและเพิ่มประสิทธิภาพในการทำงาน
     - icon: "FiLink" #icon package react-icons
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: เสียงขยาย
+      content: ระบบเสียงขยายที่ช่วยให้คุณได้ยิ่งขึ้นเสียงชัดเจนและมีคุณภาพ
     - icon: "FiBell" #icon package react-icons
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: เสียงขยาย
+      content: เทคโนโลยีเสียงขยายที่ทันสมัยและใช้งานง่าย
     - icon: "FiMonitor" #icon package react-icons
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: การตอบกลับอัจฉริยะ
+      content: ระบบที่ช่วยคัดกรองและตอบกลลข้อความโดยอัตโนมัติ
     - icon: "FiMap" #icon package react-icons
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: คำบรรยายสด
+      content: ระบบแปลภาษาและคำบรรยายสดที่แม่นยำและรวดเร็ว
     - icon: "FiLink" #icon package react-icons
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: เสียงขยาย
+      content: เทคโนโลยีการปรับปรุงเสียงที่ทันสมัยและมีประสิทธิภาพสูง
     - icon: "FiBell" #icon package react-icons
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: เสียงขยาย
+      content: ระบบเสียงขยายที่ช่วยให้คุณได้ยิ่งขึ้นเสียงชัดเจน
     - icon: "FiMap" #icon package react-icons
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: การตอบกลับอัจฉริยะ
+      content: ระบบปัญญาใหญญ์และการตอบกลลอัจฉริยะที่แม่นยำ
     - icon: "FiMonitor" #icon package react-icons
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: คำบรรยายสด
+      content: ระบบคำบรรยายและแปลภาษาแบบเรียลไทม์ที่แม่นยำ
 
 #service
 service:
   homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
+    title: ป้องกันความล้มเหลวที่กระทบต่อชื่อเสียงของคุณ
+    description: แพลตฟอร์มของเราช่วยให้คุณสร้างประสบการณ์การตรวจสอบสิทธิ์ที่ปลอดภัยและมีส่วนร่วมที่รักษาผู้ใช้ไว้ เราสร้างโครงสร้างพื้นฐานให้คุณแล้ว
     tab_list:
-      - title: Habit building essential choose habit
+      - title: การสร้างนิสัยที่จำเป็นเลือกนิสัย
         icon: "FiLock" #icon package react-icons
         image: "/images/sells-by-country.png"
-      - title: Get an overview of Habit Calendars.
+      - title: ภาพรวมของปฏิทินนิสัย
         icon: "FiClock" #icon package react-icons
         image: "/images/collaboration.png"
-      - title: Start building with Habitify platform
+      - title: เริ่มต้นสร้างด้วยแพลตฟอร์ม Habitify
         icon: "FiBell" #icon package react-icons
         image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
+    - title: รับชำระเงินจากทุกประเทศทั่วโลก
+      desctiption: เรามุ่งมั่นที่จะส่งมอบประสบการณ์ที่ดีที่สุดให้กับลูกค้า ด้วยบริการชำระเงินที่ปลอดภัยและสะดวกสบาย
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - รองรับมากกว่า 119 ประเทศทั่วโลก
+        - เปิดธุรกรรมด้วยสกุลเงินที่หลากหลาย
+        - บริการลูกค้าด้วย 79 ภาษา
+    - title: ความรับผิดชอบที่เหมาะกับคุณ
+      description: เรามุ่งมั่นที่จะสร้างสภาพแวดล้อมที่ดีที่สุดสำหรับทีมงานของคุณ ด้วยวัฒนธรรมที่เน้นการเรียนรู้ การเติบโต และความสำเร็จร่วมกัน
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
       button:
         enable: true
-        label: Know About Us
+        label: รู้จักเรา
         link: "#"
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: ลูกค้าของเรามีเรื่องเล่าที่ดีเกี่ยวกับเรา
+  description: เราภูมิใจที่ได้รับความไว้วางและความพึงพอใจจากลูกค้าทุกท่าน นี่คือเรื่องราวของความสำเร็จร่วมกัน
   testimonial_list:
-    - author: David Cameron
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: แพลตฟอร์มของเราช่วยสร้างประสบการณ์การตรวจสอบสิทธิ์ที่ปลอดภัยและมีส่วนร่วมที่ดึงดูดผู้ใช้ เราสร้างโครงสร้างพื้นฐานที่แข็งแกร่งให้คุณ
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-6.png"
       organization: meta limited
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: แพลตฟอร์มของเราช่วยสร้างประสบการณ์การใช้งานที่ราบรื่นและมีประสิทธิภาพสำหรับผู้ใช้ทุกคน เรามุ่งมั่นในความเป็นเลิศ
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-2.png"
       organization: meta limited
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: เราช่วยให้คุณสามารถจัดการและตรวจสอบสิทธิ์ได้อย่างง่ายดาย ด้วยเครื่องมือที่ทันสมัยและใช้งานง่าย
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-3.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: ประสบการณ์ที่ยอดเยี่ยมกับบริการของเรา ทีมงานมืออาชีพพร้อมช่วยเหลือคุณตลอด 24 ชั่วโมง
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-4.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: แพลตฟอร์มที่เสถียรและเชื่อถือได้ ช่วยให้ธุรกิจของคุณเติบโตอย่างมั่นคงและยั่งยืน
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-1.png"
       organization: meta limited
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: เราเสนอโซลูชันที่ครบถ้วนสำหรับธุรกิจของคุณ ตั้งแต่การตรวจสอบสิทธิ์ไปจนถึงการจัดการผู้ใช้
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: บริการที่รวดเร็วและมีประสิทธิภาพ ทีมงานของเราพร้อมดูแลและช่วยเหลือคุณตลอดเวลา
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
+      content: เราภูมิใจที่ได้รับความไว้วางจากลูกค้าทุกท่าน และจะดำเนินการต่อไปเพื่อพัฒนาบริการให้ดีขึ้นอีก
+    - author: เดวิด คาเมรอน
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: แพลตฟอร์มที่ใช้งานง่ายและมีประสิทธิภาพ เหมาะสำหรับธุรกิจทุกขนาด ไม่ว่าจะเล็กหรือใหญ่
 ---

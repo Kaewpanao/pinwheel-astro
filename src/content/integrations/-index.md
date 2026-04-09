@@ -1,6 +1,6 @@
 ---
-title: Integrations
-page_title: How To Integrate <br/> With Pinwheel
+title: การเชื่อมต่อ
+page_title: วิธีการเชื่อมต่อ <br/> ด้วย Pinwheel
 meta_title: ""
 description: ""
 image: ""

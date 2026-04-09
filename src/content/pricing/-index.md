@@ -1,11 +1,11 @@
 ---
-title: Pricing
-page_title: Pinwheel Pricing
+title: ราคา
+page_title: ราคา Pinwheel
 meta_title: ""
 description: ""
 image: ""
 pricing_card:
-  - title: Basic
+  - title: แพ็กเกจพื้นฐาน
     pre_currency: $
     post_currency: usd
     price: 29
@@ -14,20 +14,20 @@ pricing_card:
     featured: false
     buttons:
       buy_now:
-        label: Buy Now
+        label: ซื้อเลย
         link: "#"
       free_trial:
-        label: Start Free trial
+        label: เริ่มทดลองใช้ฟรี
         link: "#"
     services:
-      title: What's included?
+      title: รายการที่รวมอยู่
       list:
-        - "Track Reward Part Program"
-        - "Design and prototype powerful"
-        - "Keep work in unlimited storage"
-        - "Add people document handoff."
+        - "ติดตามโปรแกรมสะสมแต้มส่วนแบ่ง"
+        - "ออกแบบและสร้างต้นแบบที่ทรงพลัง"
+        - "เก็บงานไว้ในพื้นที่จัดเก็บแบบไม่จำกัด"
+        - "เพิ่มผู้คนในการส่งมอบเอกสาร"
 
-  - title: Enterprise
+  - title: องค์กร
     pre_currency: $
     post_currency: usd
     price: 59
@@ -36,19 +36,19 @@ pricing_card:
     featured: true
     buttons:
       buy_now:
-        label: Buy Now
+        label: ซื้อเลย
         link: "#"
       free_trial:
-        label: Start Free trial
+        label: เริ่มทดลองใช้ฟรี
         link: "#"
     services:
-      title: What's included?
+      title: รายการที่รวมอยู่
       list:
-        - "Track Reward Part Program"
-        - "Design and prototype powerful"
-        - "Keep work in unlimited storage"
-        - "Add people document handoff."
-  - title: Pro Lite
+        - "ติดตามโปรแกรมสะสมแต้มส่วนแบ่ง"
+        - "ออกแบบและสร้างต้นแบบที่ทรงพลัง"
+        - "เก็บงานไว้ในพื้นที่จัดเก็บแบบไม่จำกัด"
+        - "เพิ่มผู้คนในการส่งมอบเอกสาร"
+  - title: โปร ไลท์
     pre_currency: $
     post_currency: usd
     price: 99
@@ -57,30 +57,30 @@ pricing_card:
     featured: false
     buttons:
       buy_now:
-        label: Buy Now
+        label: ซื้อเลย
         link: "#"
       free_trial:
-        label: Start Free trial
+        label: เริ่มทดลองใช้ฟรี
         link: "#"
     services:
-      title: What's included?
+      title: รายการที่รวมอยู่
       list:
-        - "Track Reward Part Program"
-        - "Design and prototype powerful"
-        - "Keep work in unlimited storage"
-        - "Add people document handoff."
+        - "ติดตามโปรแกรมสะสมแต้มส่วนแบ่ง"
+        - "ออกแบบและสร้างต้นแบบที่ทรงพลัง"
+        - "เก็บงานไว้ในพื้นที่จัดเก็บแบบไม่จำกัด"
+        - "เพิ่มผู้คนในการส่งมอบเอกสาร"
 faq:
-  title: Frequently Asked Questions
+  title: คำถามที่พบบ่อย
   description: Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec
   faq_list:
-    - title: How can I integrate Avocode to my current tool stack?
-      content: The Service is provided for free during this pilot project, and is provided "as is" with is not committed to any level of service or availability of the Service.
-    - title: How can I integrate Avocode to my current tool stack?
-      content: The Service is provided for free during this pilot project, and is provided "as is" with is not committed to any level of service or availability of the Service.
-    - title: How can I integrate Avocode to my current tool stack?
-      content: The Service is provided for free during this pilot project, and is provided "as is" with is not committed to any level of service or availability of the Service.
-    - title: How can I integrate Avocode to my current tool stack?
-      content: The Service is provided for free during this pilot availability of the Service.</br> If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and
+    - title: ฉันจะรวม Avocode เข้ากับเครื่องมือที่ใช้งานอยู่ได้อย่างไร?
+      content: บริการนี้ไม่มีค่าใช้จ่ายในระหว่างโครงการนำร่องนี้ และให้บริการตามสภาพที่เป็นอยู่โดยไม่มีการรับประกันระดับการบริการหรือความพร้อมใช้งานของบริการ
+    - title: ฉันจะรวม Avocode เข้ากับเครื่องมือที่ใช้งานอยู่ได้อย่างไร?
+      content: บริการนี้ไม่มีค่าใช้จ่ายในระหว่างโครงการนำร่องนี้ และให้บริการตามสภาพที่เป็นอยู่โดยไม่มีการรับประกันระดับการบริการหรือความพร้อมใช้งานของบริการ
+    - title: ฉันจะรวม Avocode เข้ากับเครื่องมือที่ใช้งานอยู่ได้อย่างไร?
+      content: บริการนี้ไม่มีค่าใช้จ่ายในระหว่างโครงการนำร่องนี้ และให้บริการตามสภาพที่เป็นอยู่โดยไม่มีการรับประกันระดับการบริการหรือความพร้อมใช้งานของบริการ
+    - title: ฉันจะรวม Avocode เข้ากับเครื่องมือที่ใช้งานอยู่ได้อย่างไร?
+      content: บริการนี้ไม่มีค่าใช้จ่ายในระหว่างโครงการนำร่องและความพร้อมใช้งานของบริการ</br> หากคุณเข้าสู่ข้อตกลงนี้ในนามของบริษัท คุณยอมรับว่าบริษัทมีความรับผิดชอบภายใต้ข้อตกลงนี้สำหรับการกระทำทั้งหมด
 ---
 
 Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris <br />

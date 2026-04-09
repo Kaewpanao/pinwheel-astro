@@ -1,41 +1,41 @@
 ---
-title: "Terms & Condition Of Pinwheel"
+title: "เงื่อนไขและข้อกำหนดของ Pinwheel"
 excerpt: Donec sollicitudin molestie malesda. Donec sollitudin molestie male <br /> suada Mauris pellentesque nec egestas non nisi Cras
 draft: false
 ---
 
-### 1. Definitions
+### 1. คำนิยาม
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+เรารวบรวมข้อมูลส่วนบุคคลที่ระบุตัวตนได้บางส่วนเมื่อคุณลงทะเบียนใช้บริการของเรา เช่น ชื่อ ที่อยู่อีเมล ที่อยู่ PayPal (ถ้าแตกต่างจากที่อยู่อีเมล) และหมายเลขโทรศัพท์ ข้อมูลส่วนบุคคลที่เรารวบรวมจากคุณจะถูกเปิดเผยตามเงื่อนไขการให้บริการและ/หรือนโยบายความเป็นส่วนตัวนี้เท่านั้น Conclude รวบรวมบัญชี Slack และข้อมูลการเข้าถึงจากผู้ใช้เพื่อวัตถุประสงค์ในการเชื่อมต่อกับ Slack API และเพื่อยืนยันสิทธิ์ในการเข้าถึงข้อมูลบนเว็บไซต์ Conclude เมื่อคุณเยี่ยมชมไซต์ของเรา เราอาจรวบรวมข้อมูลที่ไม่สามารถระบุตัวตนได้จากคุณ เช่น URL ที่อ้างอิง เบราว์เซอร์ ระบบปฏิบัติการ ข้อมูลคุกกี้ และผู้ให้บริการอินเทอร์เน็ต โดยปราศจากหมายศาล การปฏิบัติตามกฎหมายโดยสมัครใจจากผู้ให้บริการอินเทอร์เน็ตของคุณ หรือบันทึกเพิ่มเติมจากบุคคลที่สาม ข้อมูลนี้โดยทั่วไปไม่สามารถใช้ระบุตัวตนคุณได้ คำว่า "ข้อมูลส่วนบุคคล" ไม่รวมถึงข้อมูลที่ไม่ระบุตัวตนและรวมข้อมูลใดๆ ที่สร้างขึ้นจากข้อมูลส่วนบุคคล ซึ่งเป็นกรรมสิทธิ์ของ Conclude ทั้งหมด
 
-### 2. General Terms
+### 2. เงื่อนไขทั่วไป
 
-#### Service Provided AS IS
+#### บริการให้บริการตามสภาพที่เป็นอยู่
 
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+บริการนี้ไม่มีค่าใช้จ่ายในระหว่างโครงการนำร่องนี้ และให้บริการตามสภาพที่เป็นอยู่โดยไม่มีการรับประกัน Conclude จะให้การสนับสนุนผู้ใช้สำหรับบริการ อย่างไรก็ตาม Conclude ไม่มีข้อผูกมัดกับระดับการให้บริการหรือความพร้อมใช้งานของบริการ คำอธิบายเพิ่มเติมเกี่ยวกับบริการและการสนับสนุนผู้ใช้ของเรามีอยู่ที่เว็บไซต์
 
-#### Interoperation with Slack
+#### การทำงานร่วมกับ Slack
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+บริการนี้ทำงานร่วมกับ Slack.com และขึ้นอยู่กับความพร้อมใช้งานและการเข้าถึง Slack อย่างต่อเนื่อง หากด้วยเหตุผลใด Conclude ไม่สามารถเข้าถึงหรือใช้ Slack ได้ (รวมถึงแต่ไม่จำกัดเพียงการเปลี่ยนแปลงเงื่อนไขหรือการเพิ่มค่าธรรมเนียมโดย Slack) Conclude อาจไม่สามารถให้ฟังก์ชันทั้งหมดของบริการได้ จะไม่มีการคืนเงินหรือเครดิต (หากมี) สำหรับความไม่พร้อมใช้งานชั่วคราวของ Slack (เช่น ช่วงบำรุงรักษา)
 
-#### Company Liability
+#### ความรับผิดของบริษัท
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+หากคุณเข้าสู่ข้อตกลงนี้ในนามของบริษัท คุณยอมรับว่าบริษัทมีความรับผิดชอบภายใต้ข้อตกลงนี้สำหรับการกระทำและการละเลยทั้งหมดที่ดำเนินการโดยผู้ใช้ที่ได้รับการแต่งตั้งของบริการ
 
-### 4. Rules of Use
+### 4. กฎการใช้งาน
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+1. ต้องรักษาความปลอดภัยและความลับของรหัสผ่าน
+2. มีความรับผิดชอบเพียงผู้เดียวสำหรับข้อมูลผู้ใช้และกิจกรรมทั้งหมดในบัญชีของคุณขณะใช้บริการ
+3. ต้องใช้ความพยายามที่เหมาะสมในเชิงพาณิชย์เพื่อป้องกันการเข้าถึงบัญชีโดยไม่ได้รับอนุญาต และแจ้งให้ Conclude ทราบโดยเร็วหากมีการเข้าถึงโดยไม่ได้รับอนุญาตดังกล่าว และ
+4. สามารถใช้บริการได้เฉพาะในไปตามคู่มือผู้ใช้ออนไลน์ของ Conclude และกฎหมายและข้อบังคับที่เกี่ยวข้องทั้งหมด
 
-#### You must not
+#### คุณต้องไม่
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+- ปรับปรุงหรือพัฒนาประสบการณ์ผู้ใช้ ไซต์ของเรา หรือบริการของเรา
+- ดำเนินการธุรกรรม
+- ส่งอีเมลเกี่ยวกับไซต์ของเราหรือตอบข้อความถาม
+- ตามนโยบายความเป็นส่วนตัวนี้และเงื่อนไขการให้บริการของเรา
 
-### 5. Intellectual Property Rights
+### 5. สิทธิ์ในทรัพย์สินทางปัญญา
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+ข้อมูลของคุณอาจถูกโอนไปยัง - และจัดเก็บไว้บน - คอมพิวเตอร์ที่ตั้งอยู่นอกรัฐ จังหวัด ประเทศ หรือเขตอำนาจศาลรัฐบาลอื่นๆ ซึ่งกฎหมายความเป็นส่วนตัวอาจไม่คุ้มครองมากเท่าที่อยู่ในเขตอำนาจศาลของคุณ หากคุณเลือกที่จะให้ข้อมูลกับเรา Conclude จะโอนข้อมูลส่วนบุคคลไปยัง Google Cloud Platform และประมวลผลที่นั่น การยอมรับของคุณต่อนโยบายความเป็นส่วนตัวนี้ตามด้วยการส่งข้อมูลดังกล่าวของคุณแสดงถึงข้อตกลงของคุณกับการโอนนั้น

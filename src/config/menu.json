@@ -1,84 +1,84 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "หน้าแรก",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "เกี่ยวกับเรา",
       "url": "/about"
     },
     {
-      "name": "Blog",
+      "name": "บล็อก",
       "url": "/blog"
     },
     {
-      "name": "Features",
+      "name": "คุณสมบัติ",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "วิธีการทำงาน",
       "url": "/how-it-works"
     },
     {
-      "name": "Pages",
+      "name": "หน้าต่างๆ",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Careers",
+          "name": "รับสมัครงาน",
           "url": "/careers"
         },
 
         {
-          "name": "Integrations",
+          "name": "การเชื่อมต่อ",
           "url": "/integrations"
         },
 
         {
-          "name": "Pricing",
+          "name": "ราคา",
           "url": "/pricing"
         },
         {
-          "name": "Sign In",
+          "name": "เข้าสู่ระบบ",
           "url": "/signin"
         },
 
         {
-          "name": "Elements",
+          "name": "องค์ประกอบ",
           "url": "/elements"
         },
         {
-          "name": "Changelog",
+          "name": "บันทึกการเปลี่ยนแปลง",
           "url": "/changelog"
         },
         {
-          "name": "Terms And Conditions",
+          "name": "เงื่อนไขและข้อกำหนด",
           "url": "/terms-and-conditions"
         }
       ]
     },
     {
-      "name": "Contact",
+      "name": "ติดต่อ",
       "url": "/contact"
     }
   ],
 
   "footer": [
     {
-      "name": "About",
+      "name": "เกี่ยวกับเรา",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "ติดต่อ",
       "url": "/contact"
     },
     {
-      "name": "Elements",
+      "name": "องค์ประกอบ",
       "url": "/elements"
     },
     {
-      "name": "Changelog",
+      "name": "บันทึกการเปลี่ยนแปลง",
       "url": "/changelog"
     }
   ]

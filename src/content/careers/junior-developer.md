@@ -1,5 +1,5 @@
 ---
-title: "Junior Developer"
+title: "นักพัฒนาระดับจูเนียร์"
 meta_title: ""
 description: ""
 excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
@@ -10,38 +10,38 @@ date: 2025-07-08
 draft: false
 ---
 
-### What Is the role?
+### ตำแหน่งงานนี้คืออะไร?
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt management, investments. You’ll be on the front lines helping clients in what is arguably the most important position at the company.
+เรากำลังมองหาผู้เชี่ยวชาญด้านการวางแผนการเงินส่วนบุคคล (ผู้ได้รับการรับรองให้เป็น Certified Financial Planner™ จะพิจารณาเป็นพิเศษ) ที่จะมาเป็นผู้นำในการให้คำแนะนำแก่ลูกค้าของเรา คุณจะเป็นผู้ถือความไว้วางใจที่ทำงานร่วมกับลูกค้าในการให้คำแนะนำแบบครบวงจรในด้านต่างๆ เช่น: การออม, เกษียณอายุ, การจัดการหนี้, การลงทุน คุณจะอยู่ในแนวหน้าในการช่วยเหลือลูกค้าในตำแหน่งที่สำคัญที่สุดของบริษัท
 
-### About you
+### เกี่ยวกับคุณ
 
-We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
+เรามีความสนใจเป็นพิเศษที่จะค้นหานักพัฒนาที่มีประสบการณ์ในการสร้าง Web APIs ด้วย Go หรือมีประสบการณ์ในการเขียนโปรแกรมเชิงฟังก์ชัน (เช่น Elixir, NodeJS, Clojure, F#) คุณอาจจะยังไม่มีประสบการณ์กับเทคโนโลยีทั้งหมดใน stack ของเรา แต่คุณมีแรงบันดาลใจที่จะเรียนรู้อย่างลึกซึ้ง คุณจะได้รับโอกาสในการทำงานกับทั้ง Go และ Elixir กับเพื่อนร่วมทีมที่มีประสบการณ์ที่สามารถสอนและทำงานคู่กับคุณเพื่อเรียนรู้สิ่งที่คุณมีประสบการณ์น้อยกว่า คุณใส่ใจเรื่องความปลอดภัย, คุณภาพโค้ด, ความสามารถในการขยายขนาด, ประสิทธิภาพ และความเรียบง่าย สิ่งที่สำคัญที่สุดคือ คุณมองหาความเป็นเลิศในการดำเนินงานและนำหลักการวิศวกรรมที่ดีที่สุดมาใช้ ไม่ใช่ทุกสิ่งที่คุณหรือทีมของคุณทำจะสมบูรณ์แบบ แต่คุณมั่นใจว่าคุณรู้เสมอถึงการแลกเปลี่ยนที่เกิดขึ้น
 
-### Your Role
+### บทบาทของคุณ
 
-Users of Conclude
+ผู้ใช้งานของ Conclude
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+1. ต้องรักษาความปลอดภัยและความลับของรหัสผ่าน
+2. รับผิดชอบเพียงผู้เดียวต่อข้อมูลผู้ใช้และกิจกรรมทั้งหมดในบัญชีของตนขณะใช้บริการ
+3. ต้องใช้ความพยายามในเชิงพาณิชย์อย่างสมเหตุสมผลเพื่อป้องกันการเข้าถึงบัญชีโดยไม่ได้รับอนุญาต และแจ้งให้ Conclude ทราบโดยเร็วเกี่ยวกับการเข้าถึงโดยไม่ได้รับอนุญาตดังกล่าว และ
+4. อาจใช้บริการได้เฉพาะให้สอดคล้องกับคู่มือผู้ใช้ออนไลน์ของ Conclude และกฎหมายและระเบียบข้อบังคับที่เกี่ยวข้องทั้งหมด
 
-### Responsibilities
+### ความรับผิดชอบ
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+- ปรับปรุงหรือพัฒนาประสบการณ์ผู้ใช้, เว็บไซต์ของเรา หรือบริการของเรา
+- ดำเนินการธุรกรรม
+- ส่งอีเมลเกี่ยวกับเว็บไซต์ของเราหรือตอบข้อสอบถาม
+- ตามนโยบายความเป็นส่วนตัวนี้และเงื่อนไขการให้บริการของเรา
 
-### Requirements
+### คุณสมบัติที่ต้องการ
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt
+เรากำลังมองหาผู้เชี่ยวชาญด้านการวางแผนการเงินส่วนบุคคล (ผู้ได้รับการรับรองให้เป็น Certified Financial Planner™ จะพิจารณาเป็นพิเศษ) ที่จะนำความพยายามในการให้คำปรึกษาแก่ลูกค้าของเรา คุณจะเป็นผู้ถือความไว้วางใจที่ทำงานร่วมกับลูกค้าในการให้คำแนะนำแบบครบวงจรในด้านต่างๆ เช่น: การออม, เกษียณอายุ, หนี้
 
-### We offer you
+### สิ่งที่เรามอบให้คุณ
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions requests for agreement.
-- Send emails about our Site or respond to inquiries.
-- Send emails and updates about Conclude, including news and requests for agreement to amended legal documents such.
-- As this Privacy Policy and our Terms of Service.
+- ปรับปรุงหรือพัฒนาประสบการณ์ผู้ใช้, เว็บไซต์ของเรา หรือบริการของเรา
+- ดำเนินการร้องขอธุรกรรมเพื่อการยอมรับ
+- ส่งอีเมลเกี่ยวกับเว็บไซต์ของเราหรือตอบข้อสอบถาม
+- ส่งอีเมลและอัปเดตเกี่ยวกับ Conclude รวมถึงข่าวและคำขอให้ยอมรับเอกสารทางกฎหมายที่แก้ไขดังกล่าว
+- ตามนโยบายความเป็นส่วนตัวนี้และเงื่อนไขการให้บริการของเรา

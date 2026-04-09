@@ -1,40 +1,40 @@
 ---
-title: "About"
-page_title: "About our company"
+title: "เกี่ยวกับเรา"
+page_title: "เกี่ยวกับบริษัทของเรา"
 meta_title: ""
 description: ""
 image: ""
 buttons:
-  - label: Download The Theme
+  - label: ดาวน์โหลดธีม
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
-  - label: Learn More
+  - label: เรียนรู้เพิ่มเติม
     link: "#"
     outline: true
     enable: true
 
 # counter
 counter:
-  - name: "Customers"
+  - name: "ลูกค้า"
     number: 25
-    measurement: M
+    measurement: ล้าน
     color: "#A3A1FB"
-  - name: "Customers"
+  - name: "ลูกค้า"
     number: 440
-    measurement: M
+    measurement: ล้าน
     color: "#5EE2A0"
-  - name: "Customers"
+  - name: "ลูกค้า"
     number: 50
-    measurement: K
+    measurement: พัน
     color: "#FE6019"
-  - name: "Customers"
+  - name: "ลูกค้า"
     number: 20
-    measurement: K
+    measurement: พัน
     color: "#FEC163"
 
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: เราเริ่มต้นด้วยเป้าหมายเดียว คือการส่งเสริมผู้ประกอบการ
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
@@ -42,48 +42,48 @@ gallery:
 
 ## our works
 features:
-  title: The six core work <br /> drive everything do
+  title:หลักการทำงานหกประการ<br />ที่ขับเคลื่อนทุกสิ่ง
   button:
-    label: Download The Theme
+    label: ดาวน์โหลดธีม
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: การเข้าถึง
+      content: เรามุ่งมั่นที่จะทำให้บริการของเราเข้าถึงได้ง่ายสำหรับทุกคน เพื่อให้ทุกคนได้รับประโยชน์จากเทคโนโลยี
+    - title: การส่งเสริม
+      content: เราส่งเสริมให้ทีมงานและลูกค้าของเราเติบโตและพัฒนาไปพร้อมกัน เพื่อสร้างความสำเร็จร่วมกัน
+    - title: ความเป็นเลิศ
+      content: เรามุ่งมั่นที่จะส่งมอบสิ่งที่ดีที่สุดให้กับลูกค้า ด้วยคุณภาพและประสิทธิภาพสูงสุด
+    - title: นวัตกรรม
+      content: เราคิดค้นสิ่งใหม่ๆ เสมอ เพื่อนำเสนอโซลูชันที่ดีกว่าและทันสมัยกว่าสำหรับลูกค้า
+    - title: ความร่วมมือ
+      content: เราเชื่อว่าความร่วมมือคือกุญแจสู่ความสำเร็จ เราทำงานร่วมกันเพื่อบรรลุเป้าหมายร่วมกัน
+    - title: ความซื่อสัตย์
+      content: เราดำเนินธุรกิจด้วยความซื่อสัตย์และโปร่งใส เพื่อสร้างความไว้วางใจกับลูกค้าและพาร์ตเนอร์
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: นี่คือเรา
+  description: ทีมงานของเราประกอบด้วยผู้เชี่ยวชาญที่มีประสบการณ์และความมุ่งมั่นในการส่งมอบสิ่งที่ดีที่สุด
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: อีเลนอร์ เพนา
+      field: ผู้ร่วมก่อตั้งและ COO
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: บูเกียกตา บันซาโล
+      field: ผู้จัดการผลิตภัณฑ์
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: ออร์ตริน โอคาสเตอร์
+      field: วิศวกรซอฟต์แวร์
       image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: อีเลนอร์ เพนา
+      field: ผู้ร่วมก่อตั้งและ COO
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: บูเกียกตา บันซาโล
+      field: ผู้จัดการผลิตภัณฑ์
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: ออร์ตริน โอคาสเตอร์
+      field: วิศวกรซอฟต์แวร์
       image: "/images/users/user-3.png"
 ---
 
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+เรามุ่งมั่นที่จะส่งมอบประสบการณ์ที่ดีที่สุดให้กับลูกค้าทุกคน ด้วยทีมงานที่เชี่ยวชาญและมีประสบการณ์ เราพร้อมที่จะช่วยให้คุณบรรลุเป้าหมายและความสำเร็จในธุรกิจของคุณ

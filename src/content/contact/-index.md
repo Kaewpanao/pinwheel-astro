@@ -1,6 +1,6 @@
 ---
-title: Contact
-page_title: Get’n touch with Our </br> Pinwheel team
+title: ติดต่อ
+page_title: ติดต่อกับทีมงาน<br/>พินวีลของเรา
 meta_title: ""
 description: ""
 image: ""

@@ -1,41 +1,41 @@
 ---
-title: How It Works
-page_title: our structured approach helps you navigate uncertainties
+title: วิธีการทำงาน
+page_title: แนวทางที่มีโครงสร้างของเราช่วยให้คุณนำทางความไม่แน่นอน
 meta_title: ""
 description: ""
 image: ""
 
 # performance
 performance:
-  - title: market profetionals
-    description: Encourage frequent & timely recognition integrating with communication tools
+  - title: ผู้เชี่ยวชาญด้านตลาด
+    description: ส่งเสริมการยอมรับที่บ่อยและทันเวลาโดยผสานรวมกับเครื่องมือการสื่อสาร
     image: "/images/how-it-work/results.png"
-  - title: measurable results
-    description: Encourage frequent & timely recognition integrating with communication tools
+  - title: ผลลัพธ์ที่วัดได้
+    description: ส่งเสริมการยอมรับที่บ่อยและทันเวลาโดยผสานรวมกับเครื่องมือการสื่อสาร
     image: "/images/how-it-work/market-professionals.png"
-  - title: international award
-    description: Encourage frequent & timely recognition integrating with communication tools
+  - title: รางวัลระดับนานาชาติ
+    description: ส่งเสริมการยอมรับที่บ่อยและทันเวลาโดยผสานรวมกับเครื่องมือการสื่อสาร
     image: "/images/how-it-work/awards.png"
 # works
 our_works:
-  - title: We'll do the legwork so you don't have to.
+  - title: เราจะทำงานหนัดเบาะแทนคุณ
     image: "/images/how-it-work/image-1.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: We'll do the legwork so you don't have to.
+      - รองรับมากกว่า 119 ประเทศทั่วโลก
+      - เปิดธุรกรรมด้วยสกุลเงินที่หลากหลาย
+      - บริการลูกค้าด้วย 79 ภาษา
+  - title: เราจะทำงานหนัดเบาะแทนคุณ
     image: "/images/how-it-work/image-2.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
-  - title: Check out their profiles, reviews On.
+      - รองรับมากกว่า 119 ประเทศทั่วโลก
+      - เปิดธุรกรรมด้วยสกุลเงินที่หลากหลาย
+      - บริการลูกค้าด้วย 79 ภาษา
+  - title: ดูโปรไฟล์ รีวิว และอื่นๆ
     image: "/images/how-it-work/image-3.png"
     list:
-      - Supporting more than 119 country world
-      - Open transaction with more than currencies
-      - Customer Service with 79 languages
+      - รองรับมากกว่า 119 ประเทศทั่วโลก
+      - เปิดธุรกรรมด้วยสกุลเงินที่หลากหลาย
+      - บริการลูกค้าด้วย 79 ภาษา
 ---
 
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque <br /> nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.Lorem
+เรามุ่งมั่นที่จะส่งมอบประสบการณ์ที่ดีที่สุดให้กับลูกค้าทุกคน ด้วยทีมงานที่เชี่ยวชาญและมีประสบการณ์ เราพร้อมที่จะช่วยให้คุณบรรลุเป้าหมายและความสำเร็จในธุรกิจของคุณ
